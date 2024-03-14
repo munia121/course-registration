@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Python",
+      "description": "Python is a high-level programming language designed for ease of readability and efficient coding. ",
+      "photo": "https://i.ibb.co/34JFbpB/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "price": 5000,
+      "credit": 10
+    },
+    {
+      "id": 2,
+      "name": "Java",
+      "description": "Java is a widely-used programming language known for its platform independence",
+      "photo": "https://i.ibb.co/34JFbpB/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "price": 10000,
+      "credit": 8
+    },
+    {
+      "id": 3,
+      "name": "JavaScript",
+      "description": "JavaScript is a versatile programming language primarily used for building interactive web applications.",
+      "photo": "https://i.ibb.co/34JFbpB/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "price": 4000,
+      "credit": 9
+    },
+    {
+      "id": 4,
+      "name": "Ruby",
+      "description": "Ruby is a dynamic, object-oriented programming language designed for simplicity and productivity. ",
+      "photo": "https://i.ibb.co/34JFbpB/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "price": 7000,
+      "credit": 7
+    },
+    {
+      "id": 5,
+      "name": "C++",
+      "description": "C++ is a powerful and versatile programming language used in various domains, including systems programming, game development,",
+      "photo": "https://i.ibb.co/34JFbpB/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "price": 5000,
+      "credit": 9
+    },
+    {
+      "id": 6,
+      "name": "Swift",
+      "description": "Swift is a modern programming language developed by Apple for building iOS, macOS, watchOS, and tvOS applications. ",
+      "photo": "https://i.ibb.co/34JFbpB/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "price": 6000,
+      "credit": 8
+    },
+    {
+      "id": 7,
+      "name": "Go",
+      "description": "Go, also known as Golang, is a statically typed, compiled programming language designed for simplicity and efficiency. ",
+      "photo": "https://i.ibb.co/34JFbpB/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "price": 7000,
+      "credit": 8
+    },
+    {
+      "id": 8,
+      "name": "Rust",
+      "description": "Rust is a systems programming language focused on safety, speed, and concurrency.",
+      "photo": "https://i.ibb.co/34JFbpB/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "price": 8000,
+      "credit": 9
+    },
+    {
+      "id": 9,
+      "name": "Haskell",
+      "description": "Haskell is a functional programming language known for its strong static typing and purity.",
+      "photo": "https://i.ibb.co/34JFbpB/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "price": 9000,
+      "credit": 7
+    }
+  ]
+  
